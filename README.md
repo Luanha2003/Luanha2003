@@ -22,7 +22,7 @@
 - 📫 How to reach me:<p align="">
   <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-tr%E1%BB%8Dng-nh%C3%A2n-37a713378/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:phantrongnhan576@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.facebook.com/pham.trong.nhan.447322/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.facebook.com/luan.ha.736515/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://zalo.me/0362772537" target="_blank"><img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo">
 </a>
 </p>
