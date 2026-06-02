@@ -37,24 +37,36 @@
 
 
 
-## Languages, Tools I Know:
+## Languages, Frameworks & Tools I Know
 
 ### Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,redux,js,tailwind,bootstrap,sass,css,html" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nextjs,vue,redux,tailwind,bootstrap,sass,css,html" />
 </p>
 
 ### Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mysql,docker,prisma,sequelize" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,cs,dotnet,python,fastapi,mysql,postgres,docker,prisma,sequelize" />
+</p>
+
+### AI, OCR & Vector Search
+<p>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-4B32C3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/EasyOCR-2E8B57?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MiniCPM--V-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/BAAI%2Fbge--m3-0052CC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### Tools & Others
 <p>
   <img src="https://skillicons.dev/icons?i=postman,git,github,figma" />
+  <img src="https://img.shields.io/badge/StarUML-333333?style=for-the-badge&logoColor=white" />
 </p>
 
 ## Github Charts
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phamtrongnhan576/phamtrongnhan576/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phamtrongnhan576/phamtrongnhan576/output/github-snake.svg" />
