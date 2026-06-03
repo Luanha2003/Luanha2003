@@ -41,17 +41,18 @@
 
 ### Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nextjs,vue,redux,tailwind,bootstrap,sass,css,html" />
+  <img src="https://skillicons.dev/icons?i=js,react,vite,nextjs,vue,redux,angular,bootstrap,css,html" />
 </p>
 
 ### Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,cs,dotnet,python,fastapi,mysql,postgres,docker,prisma,sequelize" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,cs,dotnet,python,fastapi,mysql,postgres,docker" />
 </p>
 
 ### AI, OCR & Vector Search
 <p>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-4B32C3?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/EasyOCR-2E8B57?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/MiniCPM--V-FF6F00?style=for-the-badge&logoColor=white" />
